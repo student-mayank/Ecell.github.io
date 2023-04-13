@@ -1,0 +1,14 @@
+.skills-txt {
+  padding: 150px 200px;
+}
+.skills-txt h1 {
+  font-size: 70px;
+  margin-bottom: 30px;
+  font-family: "Sedgwick Ave Display";
+}
+.skills-list {
+  margin: 20px;
+}
+.skills-item {
+  font-size: 20px;
+}
